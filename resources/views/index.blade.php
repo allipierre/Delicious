@@ -25,9 +25,9 @@
            <th>Mindestbestand</th>
            <th>Lagerarten_id</th>
            <!-- Button-->
-            <th width="280px">Action</th>
-            <th width="280px">Action</th>
-            <th width="280px">Action</th>
+            <th width="100px">Action</th>
+            <th width="100px">Action</th>
+            <th width="100px">Action</th>
 
         </tr>
          <!-- -->
